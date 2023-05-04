@@ -15,7 +15,7 @@ interface ISumType {
     (num1: number, num2: number): number
 }
 
-const sum: ISumType = (num1, num2) => num1 + num2;
+const sumCount: sumType = (num1, num2) => num1 + num2;
 
 
 type rollNumbersType = number[]
